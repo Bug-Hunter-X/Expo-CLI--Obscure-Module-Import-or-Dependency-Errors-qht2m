@@ -1,0 +1,1 @@
+This error typically occurs when you try to import or use a module that Expo doesn't support or that is not properly configured within your project.  The error message itself might not be very specific, making it difficult to pinpoint the exact cause. Common causes include using packages incompatible with managed workflow, incorrect module installation, or missing dependencies.
